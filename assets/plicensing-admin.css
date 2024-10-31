@@ -1,0 +1,14 @@
+.setting_table { margin-top: 20px; }
+.setting_table tbody th { padding-left: 40px; }
+.fl { float: left; }
+.fr { float: right; }
+.clear { clear: both; }
+input.error, textarea.error, select.error {
+    border-color: rgb(196, 32, 74) !important;
+    background-color: rgb(255, 255, 255);    
+}
+.plic-loading-icon { 
+    margin-left: 4px;
+    display: none;
+    vertical-align: middle;
+}
